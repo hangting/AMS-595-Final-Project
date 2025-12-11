@@ -1,4 +1,4 @@
-Using 2.5D model to predict kidney tumor.
+Using 2.5D MIL model to predict kidney tumor.
 
 Dataset for patients' CTs can be found on https://www.cancerimagingarchive.net/collection/tcga-kirc/
 
