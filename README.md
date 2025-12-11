@@ -4,6 +4,8 @@ Dataset for patients' CTs can be found on https://www.cancerimagingarchive.net/c
 
 Download the images and put them into folder "Dataset". It should be under the same folder of the codes.
 
+Google drive for Dataset.zip: https://drive.google.com/file/d/1qr2CKemia9IbZfvKGTSGHPLDvQfHsxXR/view?usp=drive_link
+
 
 
 
